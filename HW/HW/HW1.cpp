@@ -1,4 +1,4 @@
-#include "HW1.h"
+#include "HWs.h"
 
 HW1_SevenBridges::HW1_SevenBridges() {
 }

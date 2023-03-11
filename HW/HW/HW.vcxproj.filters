@@ -21,9 +21,12 @@
     <ClCompile Include="HW1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="HW2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="HW1.h">
+    <ClInclude Include="HWs.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
